@@ -1,5 +1,5 @@
 ### Javier García González
-Software engineer - Js focused
+Software engineer - Focus on Js
 
 <!--
 **javiergarciagonzalez/javiergarciagonzalez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
